@@ -1,0 +1,11 @@
+Feature selection:
+
+bayes output
+num words
+number of exclamation marks / len(doc)
+num paragraphs / num words
+average paragraph length
+num of all_caps words / num words
+num of capitalized letters / sentence
+num of misspelled words / num of words
+num bad words / num words
